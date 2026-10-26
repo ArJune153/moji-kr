@@ -147,9 +147,9 @@ export default {
       onlineCount6: "13,254",
       onlineCountAll: "189,631",
       slides: [
-        { src: 'certi.jpg', alt: 'Image 3' },
-        { src: 'photo_6228624588875613744_y.jpg', alt: 'Image 1' },
-        { src: 'photo_6228624588875613745_y.jpg', alt: 'Image 2' },      
+        { src: 'SD1.png', alt: 'Image 3' },
+        { src: 'SD2.png', alt: 'Image 1' },
+        { src: 'SD3.png', alt: 'Image 2' },      
       ],
       topUsersData : [
       { userName: "mojia01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
